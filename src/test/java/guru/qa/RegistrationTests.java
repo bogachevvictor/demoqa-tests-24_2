@@ -23,8 +23,7 @@ public class RegistrationTests extends TestBase {
             userNumber = getRandomPhone(),
             userSubject = getRandomSubjects(),
             userHobby = getRandomHobbies(),
-            userCurrentAddress = getRandomCurrentAddress(),
-            userState = getRandomState();
+            userCurrentAddress = getRandomCurrentAddress();
     String userStateAndCity[] = getRandomStateAndCity();
 
 
